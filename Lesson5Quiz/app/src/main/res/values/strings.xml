@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lesson 5 Quiz</string>
+    <string name="question_norse">Fenrir es hijo de Loki</string>
+    <string name="question_greek">Heracles rescató a Teseo y Piritoo del Hades</string>
+    <string name="question_aztec">De acuerdo con los aztecas, vivimos en la era del cuarto sol</string>
+    <string name="question_egypt">Isis fue la encargada de recomponer a su padre, Osiris</string>
+    <string name="question_japan">Izanami bloqueó la entrada al Yomi con una gran roca</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">¡Correcto!</string>
+    <string name="incorrect_toast">¡Incorrecto!</string>
+    <string name="next_button">Next</string>
+    <string name="previous_Button">Previous</string>
+
+</resources>
